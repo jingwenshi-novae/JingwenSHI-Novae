@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jingwen</h1>
-<h3 align="center">"Do not go gentle into that good night"</h3>
+<h5 align="center">"Do not go gentle into that good night"</h5>
 
 - 🌱 I graduated with **BSc Economics & History from SJTU**
 
 - 🌱 I'm currently pursuing **MSc Economic History (Research) at LSE**
 
-- 👨‍💻 Languages and tools: [Stata, Python, SPSS, Matblab](Stata, Python, SPSS, Matblab)
+- 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matblab**
 
 - 📫 How to reach me **J.Shi42@lse.ac.uk**
 
