@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I'm Jingwen Shi, a passionate Econ & EH student from China 🇨🇳</h3>
+<h3 align="center">I'm Jingwen Shi, a passionate Econ & EH student from China </h3>
 
 - 🎓 Graduated with **BSc Economics & History from SJTU**
 
