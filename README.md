@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jingwen</h1>
-<h3 align="center">Do Not Go Gentle Into That Good Night</h3>
+<h3 align="center">"Do not go gentle into that good night"</h3>
 
-- 🌱 I'm currently studying **Economic History at LSE**
+- 🌱 I graduated with BSc Economics & History **from Shanghai Jiao Tong University (SJTU)**
+
+- 🌱 I'm currently pursuing **MSc Economic History (Research) at LSE**
+
+- 📫 How to reach me **J.Shi42@lse.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
