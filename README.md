@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jingwen</h1>
-<h5 align="center">"Do not go gentle into that good night"</h5>
+<h4 align="center">"Do not go gentle into that good night"</h4>
 
 - 🌱 I graduated with **BSc Economics & History from SJTU**
 
