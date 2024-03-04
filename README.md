@@ -7,7 +7,7 @@
 
 - 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matlab**
 
-- 🔭 Coding samples: **[Repositories](https://github.com/JingwenSHI-Novae/Coding-Samples)**
+- 🔭 Coding samples: **[Repositories](https://github.com/jingwenshi-novae/Coding-Samples)**
 
 - 📫 How to reach me **J.Shi42@lse.ac.uk**
 
