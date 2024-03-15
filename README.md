@@ -5,7 +5,7 @@
 
 - 🌱 Currently pursuing **MSc Economic History (Research) at LSE**
 
-- 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matlab**
+- 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matlab, LaTeX**
 
 - 🔭 Coding samples: **[Repositories](https://github.com/jingwenshi-novae/Coding-Samples)**
 
