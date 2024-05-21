@@ -1,9 +1,9 @@
 <h1 align="center">Hi there</h1>
-<h3 align="center">I'm Jingwen Shi, an Economic student from China </h3>
+<h3 align="center">THis is Jingwen Shi, an Economic student from Shanghai, China </h3>
 
 - 🎓 Graduated with **BSc Economics & History from SJTU**
 
-- 🌱 Currently pursuing **MSc Economic History (Research) at LSE**
+- 🌱 Currently pursuing **MS(Research) Economic History at LSE**
 
 - 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matlab, LaTeX**
 
