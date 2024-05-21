@@ -3,7 +3,7 @@
 
 - 🌱 Currently pursuing **MS(Research) Economic History at LSE**
 
-- 🎓 Graduated with **BSc Economics (minor in History) from Shanghai Jiao Tong University (SJTU)**
+- 🎓 Graduated with **BSc Economics (minor in History) from Shanghai Jiao Tong University**
 
 - 👨‍💻 Languages and tools: **Stata, Python, SPSS, Matlab, LaTeX**
 
