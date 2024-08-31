@@ -1,4 +1,4 @@
-<h1 align="center">Hi there ✨</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center">THis is Jingwen Shi, an Economic History student from Shanghai, China </h3>
 
 - 🌱 Incoming **Mphil/PhD student in Economic History at LSE**
