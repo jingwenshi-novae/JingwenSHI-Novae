@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✨</h1>
-<h3 align="center">This is Jingwen Shi, an Economic History student from Shanghai, China </h3>
+<h3 align="center">This is Jingwen Shi</h3>
 
-- 🌱 Incoming **Mphil/PhD student in Economic History at LSE**
+- 🌱 Currently **Mphil/PhD student in Economic History at LSE**
 
 - 🎓 Graduated with **BSc Economics (minor in History) from Shanghai Jiao Tong University**
 
