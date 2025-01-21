@@ -1,4 +1,3 @@
-<h1 align="center">Hi ✨</h1>
 <h3 align="center">This is Jingwen Shi</h3>
 
 - 🌱 Currently **Mphil/PhD student in Economic History at LSE**
